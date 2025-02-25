@@ -54,7 +54,7 @@ Expected Response:
 5. **Deployment**: The trained model and TF-IDF vectorizer are saved as `.pkl` files and used in a Flask API.
 
 ## 📊 Results
-- Achieved an accuracy of **XX%** on the test dataset.
+- Achieved an accuracy of **79%** on the test dataset.
 - The model performs well in distinguishing between positive and negative reviews.
 
 ## 📌 Future Improvements
